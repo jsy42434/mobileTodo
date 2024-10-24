@@ -18,4 +18,4 @@
 4. `FragmentTodoList` 클래스 완성 후에 실행 확인
 
 ## GitHub 저장소
-https://github.com/jsy42434/mobileComputing
+https://github.com/jsy42434/mobileTodo
